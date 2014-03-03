@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>79C6440D-725D-4BF0-ACDA-E0E7E76C2BA4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iOS7Sampler</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D28029BD-F628-422A-9EEC-FCFFDDC5B5F9</key>
+		<string>https://github.com/avadhesh-sharma/iOS7-Sampler.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iOS7Sampler.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D28029BD-F628-422A-9EEC-FCFFDDC5B5F9</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/avadhesh-sharma/iOS7-Sampler.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D28029BD-F628-422A-9EEC-FCFFDDC5B5F9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D28029BD-F628-422A-9EEC-FCFFDDC5B5F9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS Sampler</string>
+		</dict>
+	</array>
+</dict>
+</plist>
