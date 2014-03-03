@@ -38,7 +38,7 @@
 
 - (IBAction)addToReadingList {
 
-    NSURL *url = [NSURL URLWithString:@"https://github.com/shu223/iOS7-Sampler"];
+    NSURL *url = [NSURL URLWithString:@"https://github.com/avadhesh-sharma/iOS7-Sampler"];
     NSError *err;
     
     BOOL result = [[SSReadingList defaultReadingList] addReadingListItemWithURL:url

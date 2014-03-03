@@ -245,7 +245,7 @@
 
 - (void)viewCodeButtonTapped:(id)sender {
 
-    NSString *urlStr = [NSString stringWithFormat:@"http://github.com/shu223/iOS7-Sampler/blob/master/iOS7Sampler/SampleViewControllers/%@.m",
+    NSString *urlStr = [NSString stringWithFormat:@"https://github.com/avadhesh-sharma/iOS7-Sampler/blob/master/iOS7Sampler/SampleViewControllers/%@.m",
                         self.currentClassName];
     NSLog(@"url:%@", urlStr);
     
